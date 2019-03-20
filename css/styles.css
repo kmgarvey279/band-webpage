@@ -1,0 +1,23 @@
+img {
+  float: right;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  background-color: yellow;
+}
+
+body {
+  background-image: url(../img/waband.jpg);
+}
+
+.heading {
+  color: red;
+  background-color: salmon;
+}
+
+.heading2 {
+  color: darkred;
+  background-color: salmon;
+}
