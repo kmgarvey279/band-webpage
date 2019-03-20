@@ -1,11 +1,17 @@
 img {
   float: right;
+  border: 3px solid black;
+  padding: 5px;
+  margin: 10px
 }
 
 .column {
   width: 300px;
   float: left;
   background-color: yellow;
+  border: 2px solid orange;
+  padding: 3px;
+  margin: 10px;
 }
 
 body {
@@ -15,9 +21,15 @@ body {
 .heading {
   color: red;
   background-color: salmon;
+  border: 3px solid black;
+  padding: 5px;
+  margin: 10px
 }
 
 .heading2 {
   color: darkred;
   background-color: salmon;
+  border: 3px solid black;
+  padding: 5px;
+  margin: 10px
 }
